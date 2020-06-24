@@ -1,0 +1,15 @@
+server:
+  port: 8866
+
+eureka:
+  instance:
+    prefer-ip-address: true  #以IP地址注册到服务中心
+  client:
+    register-with-eureka: false #是否将自己注册到Eureka Server
+    fetch-registry: false #是否从Eureka Server获取注册信息
+    service-url: #Eureka Server地址
+      defaultZone: http://127.0.0.1:8866/eureka/
+
+spring:
+  application:
+    name: server-eureka
