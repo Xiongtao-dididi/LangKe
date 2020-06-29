@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cloud-Parent/Cloud-Common/Cloud-Common.iml" filepath="$PROJECT_DIR$/Cloud-Parent/Cloud-Common/Cloud-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cloud-Parent/CloudParent.iml" filepath="$PROJECT_DIR$/Cloud-Parent/CloudParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cloud-Parent/Eureka-Server/Eureka-Server.iml" filepath="$PROJECT_DIR$/Cloud-Parent/Eureka-Server/Eureka-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cloud-Parent/Order-Client/Order-Client.iml" filepath="$PROJECT_DIR$/Cloud-Parent/Order-Client/Order-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cloud-Parent/Product-Client/Product-Client.iml" filepath="$PROJECT_DIR$/Cloud-Parent/Product-Client/Product-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/XingXingSeSe.iml" filepath="$PROJECT_DIR$/.idea/XingXingSeSe.iml" />
+    </modules>
+  </component>
+</project>
